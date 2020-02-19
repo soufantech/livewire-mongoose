@@ -1,6 +1,6 @@
 {
   "name": "livewire-mongoose",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "livewire-mongoose is a storage adapter for use with livewire and mongoose.",
   "main": "lib/index.js",
   "repository": "https://gitlab.com/soufan/packages/livewire-mongoose.git",
